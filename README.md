@@ -1,1 +1,1 @@
-# Skip-gram-Word-Embeddings-in-PyTorch
+# Implementing-Skip-gram-Word-Embeddings-in-PyTorch
